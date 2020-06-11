@@ -14,5 +14,13 @@
         "email":"vivekshah9969@gmail.com",
         "github_link": "https://github.com/vivekshah1801",
         "linkedIn_link": "https://www.linkedin.com/in/vivekshah1801/"
+    },
+     {
+        "name":"Prachi Singhal",
+        "role":"contributor",
+        "profile_pic":"../assets/team/prachi.jpg",
+        "email":"prachisinghals076@gmail.com",
+        "github_link": "https://github.com/PrachiSinghal86",
+        "linkedIn_link": "https://www.linkedin.com/in/prachi-singhal-b73553159/"
     }
 ]
